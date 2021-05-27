@@ -200,3 +200,4 @@ dependencies:
     - umap-learn
     - werkzeug
     - wrapt
+    - wget
