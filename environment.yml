@@ -26,4 +26,3 @@ dependencies:
     - matplotlib
     - scikit-learn
     - tensorflow
-    - scikit-learn
