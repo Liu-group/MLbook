@@ -86,6 +86,7 @@ dependencies:
   - ncurses
   - notebook
   - olefile
+  - openbabel
   - openssl
   - pandas
   - pandoc
@@ -116,6 +117,7 @@ dependencies:
   - pyyaml
   - pyzmq
   - qt
+  - rdkit
   - readline
   - requests
   - retrying
@@ -173,6 +175,7 @@ dependencies:
     - llvmlite
     - markdown
     - matplotlib
+    - molsimplify
     - networkx
     - numba
     - numpy
@@ -197,4 +200,3 @@ dependencies:
     - umap-learn
     - werkzeug
     - wrapt
-    - wget
