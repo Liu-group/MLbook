@@ -23,6 +23,7 @@ dependencies:
   - pip
   - numpy
   - pip:
+    - numpy==1.18.5
     - matplotlib
     - scikit-learn==0.20.3
     - tensorflow
