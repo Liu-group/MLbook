@@ -7,4 +7,4 @@ Please directly click this icon:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Liu-group/MLbook/HEAD?filepath=JupyterNotebook%2Fcase_study.ipynb)
 
-A Jupyter notebook will automatically launch in your browswer.
+A Jupyter notebook will automatically launch in your browser.
