@@ -14,7 +14,7 @@ If you prefer to download the repository to your own computer rather than runnin
 ```
 git clone https://github.com/Liu-group/MLbook.git 
 ```
-2. Make sure that [Anaconda](https://www.anaconda.com/pricing) is installed on your computer.
+2. Make sure that [Anaconda](https://www.anaconda.com/products/individual) is installed on your computer.
 3. Set up the conda environ needed for this case study by running
 ```
 conda env create -f environment.yml
