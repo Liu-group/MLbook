@@ -11,13 +11,15 @@ A Jupyter notebook will automatically launch in your browser.
 # Instructions to run the case study locally on your computer
 If you prefer to download the repository to your own computer rather than running with Binder, please set up your environment based on the following instructructions:
 1. Clone the repository to your local computer by running
-``` git clone https://github.com/Liu-group/MLbook.git 
+```
+git clone https://github.com/Liu-group/MLbook.git 
 ```
 
 1. Make sure that Anaconda is installed on your computer.
 
 1. Set up the conda environ needed for this case study by running
-```conda env create -f environment.yml
+```
+conda env create -f environment.yml
 ```
 Here, the environment.yml file is provided in the top-level folder of this repository
 
