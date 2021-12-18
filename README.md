@@ -26,7 +26,7 @@ Here, the environment.yml file is provided in the top-level folder of this repos
 ```conda activate case_study```
 1. You can then lunch jupyter notebook and run the test cases! 
 
-# If you want to run the study in an existing conda environment without using our environment.yml file
+# If you want to run the case study in an existing conda environment
 The best way to make sure all Python packages compatible with the case study is to set up the environment with the provided environment.yml file. If you insist not using it, then please check your own conda environment to make sure you have the compatible version of scikit-learn installed.
 
 ** The recommended version of scikit-learn to use with this case study is 0.20.3 to 0.22.1. Versions newer than 0.22.1 will not work. **
