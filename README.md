@@ -14,8 +14,8 @@ If you prefer to download the repository to your own computer rather than runnin
 ```
 git clone https://github.com/Liu-group/MLbook.git 
 ```
-1. Make sure that Anaconda is installed on your computer.
-1. Set up the conda environ needed for this case study by running
+2. Make sure that Anaconda is installed on your computer.
+3. Set up the conda environ needed for this case study by running
 ```
 conda env create -f environment.yml
 ```
@@ -27,6 +27,6 @@ Here, the environment.yml file is provided in the top-level folder of this repos
 1. You can then lunch jupyter notebook and run the test cases! 
 
 # If you want to run the case study in an existing conda environment
-The best way to make sure all Python packages compatible with the case study is to set up the environment with the provided environment.yml file. If you insist not using it, then please check your own conda environment to make sure you have the compatible version of scikit-learn installed.
+The best way to make sure all Python packages compatible with the case study is to set up the environment with the provided ```environment.yml``` file. If you insist on not using it, then please check your own conda environment to make sure you have the compatible version of scikit-learn installed.
 
-** The recommended version of scikit-learn to use with this case study is 0.20.3 to 0.22.1. Versions newer than 0.22.1 will not work. **
+**The recommended version of scikit-learn to use with this case study is 0.20.3 to 0.22.1. Versions newer than 0.22.1 will not work.**
